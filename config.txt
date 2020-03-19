@@ -1,0 +1,12 @@
+[DESK]
+API_KEY=aQIZCuD3pu4znhGVho03cVGPmOtO4VU40xrFf5Tdn5NiZgKfLv
+URL=https://1584556542210.teamwork.com
+
+[POSTGRES]
+host=localhost
+database=desktest
+user=postgres
+password=postgres
+
+[LOG]
+filename=log.txt
